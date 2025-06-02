@@ -19,4 +19,4 @@ jobs:
 
       - name: Run API Tests
         run: |
-          newman run FakeReaAPI.json -e FakeRestAPIE.json --reporters cli,html --reporter-html-export report.html
+          newman run FakeRestAPI.json -e FakeRestAPIE.json --reporters cli,html --reporter-html-export report.html
