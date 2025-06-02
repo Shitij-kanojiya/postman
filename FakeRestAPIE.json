@@ -1,0 +1,15 @@
+{
+	"id": "a66d9c14-a65e-436b-8ae7-7e6e486b352e",
+	"name": "FakeRestAPI_Environment",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://fakerestapi.azurewebsites.net/",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-06-02T15:30:12.169Z",
+	"_postman_exported_using": "Postman/11.47.1"
+}
